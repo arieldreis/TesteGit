@@ -1,2 +1,3 @@
 # TesteGit
 Este repositório será para testar códigos git.
+E está sendo feito pelo canal `Dev Superior`
